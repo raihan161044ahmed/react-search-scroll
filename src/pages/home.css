@@ -1,0 +1,17 @@
+.container {
+    position: relative;
+    margin-top: 250px;
+  }
+  
+  .search-bar {
+    position: fixed;
+    top: 100px;
+    width: 81%;
+    background-color: #fff;
+    padding: 10px;
+    z-index: 999;
+  }
+  
+
+  
+  
